@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  TrackeriOSMain
-//
-//  Created by Muller Alexander on 23.11.2023.
-//
-
 import UIKit
 
 @main
